@@ -1,0 +1,19 @@
+1.Belajar PHP
+  -menampilkan data ke layar
+  -tipe data string
+  -tipe data integer
+  -variable
+  -percabangan/pengkondisian
+  -switch case
+  -looping
+    -for
+    -while
+    -do while
+  -function
+  -array
+  -array key
+  -try catch/error handling
+  -get & post
+  -CRUD
+  -uplode image
+  -login form

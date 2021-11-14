@@ -17,3 +17,7 @@
   -CRUD
   -uplode image
   -login form
+2.Belajar CSS
+  -padding & margin
+  -background && color
+  -border
